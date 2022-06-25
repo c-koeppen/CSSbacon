@@ -1,0 +1,20 @@
+body{
+  background-color: purple;
+}
+
+h1{
+  color: red;
+  font-size: 100px;
+}
+
+p{
+  color: magenta;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+.bacon{
+  background-color: green;
+}
